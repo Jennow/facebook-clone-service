@@ -8,7 +8,7 @@ import java.util.*;
 
 @RestController
 @RequestMapping("/api/v1/posts")
-@CrossOrigin(value = "http://localhost:3000")
+@CrossOrigin
 public class PostController {
     private PostService postService;
 
