@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jeniferprochnow</groupId>
-	<artifactId>fb_clone</artifactId>
+	<artifactId>facebookcloneservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>fb_clone</name>
+	<name>facebookcloneservice</name>
 	<description>Social network project</description>
 	<properties>
 		<java.version>19</java.version>
